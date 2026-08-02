@@ -16,6 +16,9 @@ header nav ul {
   align-items: center;
   gap: 40px;
 }
+header nav ul li a {
+  color: #fff;
+}
 
 * {
   padding: 0;
